@@ -12,3 +12,5 @@ pool:
 variables:
   buildConfiguration: 'Release'
 
+steps:
+- bash: echo "haha"
